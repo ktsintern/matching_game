@@ -1,0 +1,14 @@
+1. Rick, 45
+2. Joe, 42
+3. Sam, 39
+4. Sam, 36
+5. Rick, 33
+6. Kyle, 30
+7. Joe, 27
+8. Matt, 24
+9. Rachel, 21
+10. Matt, 18
+11. Rachel, 15
+12. Matt, 12
+13. Kyle, 9
+14. Rick, 6
